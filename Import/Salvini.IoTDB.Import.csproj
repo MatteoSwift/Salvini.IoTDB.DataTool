@@ -17,16 +17,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Salvini.IoTDB" Version="1.0.23.216" />
+		<PackageReference Include="Salvini.IoTDB" Version="1.0.23.306" />
 	</ItemGroup>
 
 	<ItemGroup>
 		<None Update="import.ini">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
-	</ItemGroup>
-
-	<ItemGroup>
-	  <ProjectReference Include="..\..\IoTDB客户端\Salvini.IoTDB.csproj" />
 	</ItemGroup>
 </Project>

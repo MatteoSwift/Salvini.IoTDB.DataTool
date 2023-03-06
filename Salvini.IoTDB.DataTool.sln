@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salvini.IoTDB.Export", "Exp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salvini.IoTDB.Import", "Import\Salvini.IoTDB.Import.csproj", "{B36E438C-4067-4406-8BE7-8C315368C81E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salvini.IoTDB", "..\IoTDB客户端\Salvini.IoTDB.csproj", "{3E1D9168-1214-41E9-B2E4-9C64FEBEB49F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{B36E438C-4067-4406-8BE7-8C315368C81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36E438C-4067-4406-8BE7-8C315368C81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B36E438C-4067-4406-8BE7-8C315368C81E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3E1D9168-1214-41E9-B2E4-9C64FEBEB49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E1D9168-1214-41E9-B2E4-9C64FEBEB49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E1D9168-1214-41E9-B2E4-9C64FEBEB49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E1D9168-1214-41E9-B2E4-9C64FEBEB49F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
