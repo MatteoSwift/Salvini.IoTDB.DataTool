@@ -17,7 +17,7 @@
 	</ItemGroup>
 	
 	<ItemGroup>
-		<PackageReference Include="Salvini.IoTDB" Version="1.0.23.306" />
+		<PackageReference Include="Salvini.IoTDB" Version="1.0.23.310" />
 	</ItemGroup>
 
 	<ItemGroup>
